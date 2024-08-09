@@ -1,5 +1,5 @@
 public class test {
 
-    int i=10;
+    int i=1000;
 
 }
